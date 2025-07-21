@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#game1{height: 100%;}
+#game2{height: 100%;}
+#game3{height: 100%;}
+#game4{height: 100%;}
+#game5{height: 100%;}
+#game6{height: 100%;}
+#game7{height: 100%;}
+#game8{height: 100%;}
+#game9{height: 100%;}
+#table{border: solid;background-color: gray;color:white;border-color: black;border-width: 5px;}
+#head{color:blue}
